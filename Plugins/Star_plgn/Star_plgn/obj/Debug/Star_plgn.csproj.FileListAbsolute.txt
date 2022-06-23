@@ -1,0 +1,9 @@
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\obj\Debug\Star_plgn.csproj.AssemblyReference.cache
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\obj\Debug\Star_plgn.csproj.CoreCompileInputs.cache
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\bin\Debug\Star_plgn.dll
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\bin\Debug\Star_plgn.pdb
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\bin\Debug\Fgr.dll
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\bin\Debug\Fgr.pdb
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\obj\Debug\Star_plgn.csproj.CopyComplete
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\obj\Debug\Star_plgn.dll
+C:\Users\mikyy\source\repos\Plugins\Star_plgn\Star_plgn\obj\Debug\Star_plgn.pdb

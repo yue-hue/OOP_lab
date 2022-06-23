@@ -1,0 +1,6 @@
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\bin\Debug\Adaptee.dll
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\bin\Debug\Adaptee.pdb
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\obj\Debug\Adaptee.csproj.AssemblyReference.cache
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\obj\Debug\Adaptee.csproj.CoreCompileInputs.cache
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\obj\Debug\Adaptee.dll
+C:\Users\mikyy\source\repos\Plugins\Adaptee\Adaptee\obj\Debug\Adaptee.pdb

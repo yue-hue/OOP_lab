@@ -1,0 +1,9 @@
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\bin\Debug\Rhombus_plgn.dll
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\bin\Debug\Rhombus_plgn.pdb
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\obj\Debug\Rhombus_plgn.csproj.AssemblyReference.cache
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\obj\Debug\Rhombus_plgn.csproj.CoreCompileInputs.cache
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\obj\Debug\Rhombus_plgn.csproj.CopyComplete
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\obj\Debug\Rhombus_plgn.dll
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\obj\Debug\Rhombus_plgn.pdb
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\bin\Debug\Fgr.dll
+C:\Users\mikyy\source\repos\Plugins\Rhombus_plgn\Rhombus_plgn\bin\Debug\Fgr.pdb
